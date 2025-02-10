@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Kaan
+### Hi there 👋 I'm Kaan
 
 I'm a passionate **Software Developer** in the **Hometech R&D Department** based in **Istanbul, Türkiye**. I love building innovative tools for image processing, video automation, web development, and gaming technology enhancements. I enjoy exploring new technologies and pushing the boundaries of what's possible.
 
