@@ -23,13 +23,14 @@ Check out my projects below – any feedback is welcome! 😉
 ### 📊 My GitHub Stats
 
 <p align="left">
-  <a href="https://github.com/kaanaldemir">
-    <img width="48%" alt="Kaan's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=kaanaldemir&show_icons=true&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/kaanaldemir">
-    <img width="48%" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaanaldemir&layout=compact&theme=tokyonight&hide_border=true" />
-  </a>
+    <a href="https://github-readme-stats.vercel.app">
+      <img width="39%" height="39%" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaanaldemir&hide=objective-c,swift,c,c%2B%2B,cmake,scss,html,ruby,javascript&hide_progress=false&theme=tokyonight">
+    </a>
+    <a href="https://github-readme-stats.vercel.app/api?username=kaanaldemir&show_icons=true&hide_rank=true&theme=tokyonight&&show=prs_merged,prs_merged_percentage">
+      <img width="29.3%" height="29.3%" alt="kaanaldemir's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=kaanaldemir&show_icons=true&hide_rank=true&theme=tokyonight&&show=prs_merged,prs_merged_percentage">
+    </a> 
 </p>
+
 
 ---
 
