@@ -36,17 +36,17 @@ Check out my projects below – any feedback is welcome! 😉
 ### 🔥 My Projects
 
 <p align="left">
-      <a href="https://github.com/kaanaldemir/DLSS-Override-For-All-Games">
+  <a href="https://github.com/kaanaldemir/DLSS-Override-For-All-Games">
     <img width="45%" alt="DLSS-Override-For-All-Games" src="https://github-readme-stats.vercel.app/api/pin/?username=kaanaldemir&repo=DLSS-Override-For-All-Games&theme=tokyonight&hide_border=true" />
   </a>
   <a href="https://github.com/kaanaldemir/Custom-Contrast-Stretching-GUI">
     <img width="45%" alt="Custom-Contrast-Stretching-GUI" src="https://github-readme-stats.vercel.app/api/pin/?username=kaanaldemir&repo=Custom-Contrast-Stretching-GUI&theme=tokyonight&hide_border=true" />
   </a>
+</p>
+<p align="left">
   <a href="https://github.com/kaanaldemir/auto-subtitle-gui">
     <img width="45%" alt="auto-subtitle-gui" src="https://github-readme-stats.vercel.app/api/pin/?username=kaanaldemir&repo=auto-subtitle-gui&theme=tokyonight&hide_border=true" />
   </a>
-</p>
-<p align="left">
   <a href="https://github.com/kaanaldemir/kaanaldemir.github.io">
     <img width="45%" alt="Personal Website" src="https://github-readme-stats.vercel.app/api/pin/?username=kaanaldemir&repo=kaanaldemir.github.io&theme=tokyonight&hide_border=true" />
   </a>
