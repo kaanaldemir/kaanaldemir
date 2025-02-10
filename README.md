@@ -53,18 +53,9 @@ Welcome to my GitHub profile! I'm a passionate **Software Developer** in the **H
 
 ---
 
-### 🏆 Achievements
-
-- **Quickdraw Achievement:** Proud recipient of GitHub’s Quickdraw badge for swift and effective contributions.
-
----
-
 ### ☕ Support My Work
 
 <a href="https://www.buymeacoffee.com/kaanaldemir" target="_blank">
   <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;">
 </a>
 
----
-
-*Crafted with passion by Kaan.*
