@@ -2,7 +2,6 @@
 
 I'm a passionate **Software Developer** in the **Hometech R&D Department** based in **Istanbul, Türkiye**. I love building innovative tools for image processing, video automation, web development, and gaming technology enhancements. I enjoy exploring new technologies and pushing the boundaries of what's possible.
 
-### I love my 👨‍💻⚡🎮🖥☕  
 Check out my projects below – any feedback is welcome! 😉
 
 [![Profile Views](https://komarev.com/ghpvc/?username=kaanaldemir)](https://github.com/kaanaldemir)
