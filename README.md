@@ -20,10 +20,7 @@ Welcome to my GitHub profile! I'm a passionate **Software Developer** in the **H
 - ⚡ Fun fact: I enjoy contributing to open source projects and experimenting with new technologies.
 
 **Languages & Tools:**  
-![Python](https://skillicons.dev/icons?i=python)  
-![HTML5](https://skillicons.dev/icons?i=html)  
-![Git](https://skillicons.dev/icons?i=git)  
-![VSCode](https://skillicons.dev/icons?i=vscode)
+![Python](https://skillicons.dev/icons?i=python) ![HTML5](https://skillicons.dev/icons?i=html) ![Git](https://skillicons.dev/icons?i=git) ![VSCode](https://skillicons.dev/icons?i=vscode)
 
 ---
 
@@ -62,10 +59,11 @@ Welcome to my GitHub profile! I'm a passionate **Software Developer** in the **H
 
 ---
 
-### 📝 Latest Blog Posts
+### ☕ Support My Work
 
-<!-- If you have a blog, you can integrate your latest posts here using GitHub Actions or other tools. -->
-- Stay tuned for updates – no blog posts yet!
+<a href="https://www.buymeacoffee.com/kaanaldemir" target="_blank">
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;">
+</a>
 
 ---
 
