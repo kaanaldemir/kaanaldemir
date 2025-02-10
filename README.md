@@ -11,18 +11,37 @@ Check out my projects below – any feedback is welcome! 😉
 
 ### 🚀 Connect with Me
 
-[![Website](https://img.shields.io/badge/Website-kaanaldemir.com-brightgreen?style=for-the-badge&logo=google-chrome)](https://kaanaldemir.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kaan-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/kaan-aldemir)  
-[![Instagram](https://img.shields.io/badge/Instagram-Kaan-E4405F?style=for-the-badge&logo=instagram)](https://instagram.com/kaanaldemir)
+<p align="center">
+  <a href="https://kaanaldemir.com" target="_blank">
+    <img src="https://img.shields.io/badge/Website-kaanaldemir.com-brightgreen?style=for-the-badge&logo=google-chrome" alt="Website">
+  </a>
+  &nbsp;
+  <a href="https://linkedin.com/in/kaan-aldemir" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Kaan-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
+  </a>
+  &nbsp;
+  <a href="https://instagram.com/kaanaldemir" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-Kaan-E4405F?style=for-the-badge&logo=instagram" alt="Instagram">
+  </a>
+  &nbsp;
+  <a href="https://github.com/kaanaldemir" target="_blank">
+    <img src="https://komarev.com/ghpvc/?username=kaanaldemir&label=Profile%20views&style=for-the-badge" alt="Profile Views">
+  </a>
+</p>
 
 ---
 
 ### 👨‍💻 Programming Languages and Tools
 
-![Python](https://skillicons.dev/icons?i=python)  
-![HTML5](https://skillicons.dev/icons?i=html)  
-![Git](https://skillicons.dev/icons?i=git)  
-![VSCode](https://skillicons.dev/icons?i=vscode)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python" alt="Python">
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=html" alt="HTML5">
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=git" alt="Git">
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=vscode" alt="VSCode">
+</p>
 
 ---
 
