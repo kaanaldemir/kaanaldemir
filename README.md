@@ -27,7 +27,7 @@ Check out my projects below – any feedback is welcome! 😉
 </p>
 
 <p align="left">
-    <a href="https://github-readme-stats.vercel.app"><img width="39%" height="29%" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaanaldemir&hide=objective-c,swift,c,c%2B%2B,cmake,scss,html,ruby,javascript&hide_progress=false&theme=tokyonight"></a>
+    <a href="https://github-readme-stats.vercel.app"><img width="25%" height="25%" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaanaldemir&hide=objective-c,swift,c,c%2B%2B,cmake,scss,html,ruby,javascript&hide_progress=false&theme=tokyonight"></a>
     <a href="https://github-readme-stats.vercel.app/api?username=kaanaldemir&show_icons=true&hide_rank=true&theme=tokyonight&&show=prs_merged,prs_merged_percentage"><img width="29.3%" height="29.3%" alt="Kaan's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=kaanaldemir&show_icons=true&hide_rank=true&theme=tokyonight&&show=prs_merged,prs_merged_percentage"></a> 
 </p>
 
