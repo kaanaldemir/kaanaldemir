@@ -20,27 +20,16 @@ Check out my projects below – any feedback is welcome! 😉
 
 ---
 
-### 📊 My GitHub Stats
-
+### 📈 My Profile Statistics
 <p align="left">
-    <a href="https://git.io/streak-stats">
-        <img width="21%" height="21%" alt="Github Stats" src="https://streak-stats.demolab.com?user=kaanaldemir&theme=tokyonight&hide_current_streak=true&hide_longest_streak=true&card_width=200&disable_animations=false&hide_border=true">
-    </a>
-    <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-        <img width="72%" alt="Github Streak" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kaanaldemir&theme=tokyonight">
-    </a>
+    <a href="https://git.io/streak-stats"><img width="21%" height="21%" alt="Github Stats" src="https://streak-stats.demolab.com?user=kaanaldemir&theme=tokyonight&hide_current_streak=true&hide_longest_streak=true&card_width=200&disable_animations=false&hide_border=true"></a>
+    <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"><img width="72%" alt="Github Streak" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kaanaldemir&theme=tokyonight"></a>
 </p>
 
 <p align="left">
-    <a href="https://github-readme-stats.vercel.app">
-        <img width="39%" height="39%" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaanaldemir&hide=objective-c,swift,c,c%2B%2B,cmake,scss,html,ruby,javascript&hide_progress=false&theme=tokyonight">
-    </a>
-    <a href="https://github-readme-stats.vercel.app/api?username=kaanaldemir&show_icons=true&hide_rank=true&theme=tokyonight&&show=prs_merged,prs_merged_percentage">
-        <img width="29.3%" height="29.3%" alt="kaanaldemir's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=kaanaldemir&show_icons=true&hide_rank=true&theme=tokyonight&&show=prs_merged,prs_merged_percentage">
-    </a> 
+    <a href="https://github-readme-stats.vercel.app"><img width="39%" height="39%" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaanaldemir&hide=objective-c,swift,c,c%2B%2B,cmake,scss,html,ruby,javascript&hide_progress=false&theme=tokyonight"></a>
+    <a href="https://github-readme-stats.vercel.app/api?username=kaanaldemir&show_icons=true&hide_rank=true&theme=tokyonight&&show=prs_merged,prs_merged_percentage"><img width="29.3%" height="29.3%" alt="Kaan's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=kaanaldemir&show_icons=true&hide_rank=true&theme=tokyonight&&show=prs_merged,prs_merged_percentage"></a> 
 </p>
-
-
 
 ---
 
