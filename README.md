@@ -11,28 +11,31 @@ Check out my projects below – any feedback is welcome! 😉
 
 ### 🚀 Connect with Me
 
-[![Website](https://img.shields.io/badge/Website-kaanaldemir.com-brightgreen?style=for-the-badge&logo=google-chrome)](https://kaanaldemir.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Kaan-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/kaan-aldemir) [![Instagram](https://img.shields.io/badge/Instagram-Kaan-E4405F?style=for-the-badge&logo=instagram)](https://instagram.com/kaanaldemir)
+[![Website](https://img.shields.io/badge/Website-kaanaldemir.com-brightgreen?style=for-the-badge&logo=google-chrome)](https://kaanaldemir.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kaan-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/kaan-aldemir)  
+[![Instagram](https://img.shields.io/badge/Instagram-Kaan-E4405F?style=for-the-badge&logo=instagram)](https://instagram.com/kaanaldemir)
 
 ---
 
 ### 👨‍💻 Programming Languages and Tools
 
-![Python](https://skillicons.dev/icons?i=python) ![HTML5](https://skillicons.dev/icons?i=html) ![Git](https://skillicons.dev/icons?i=git) ![VSCode](https://skillicons.dev/icons?i=vscode)
+![Python](https://skillicons.dev/icons?i=python)  
+![HTML5](https://skillicons.dev/icons?i=html)  
+![Git](https://skillicons.dev/icons?i=git)  
+![VSCode](https://skillicons.dev/icons?i=vscode)
 
 ---
 
 ### 📊 My GitHub Stats
 
-<table>
-  <tr>
-    <td valign="top">
-      <img src="https://github-readme-stats.vercel.app/api?username=kaanaldemir&show_icons=true&theme=tokyonight&hide_border=true" alt="Kaan's GitHub Stats" />
-    </td>
-    <td valign="top">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaanaldemir&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-    </td>
-  </tr>
-</table>
+<p align="left">
+  <a href="https://github.com/kaanaldemir">
+    <img width="48%" alt="Kaan's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=kaanaldemir&show_icons=true&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/kaanaldemir">
+    <img width="48%" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaanaldemir&layout=compact&theme=tokyonight&hide_border=true" />
+  </a>
+</p>
 
 ---
 
