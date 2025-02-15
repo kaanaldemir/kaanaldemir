@@ -16,18 +16,18 @@ Check out my projects below – any feedback is welcome! 😉
 
 ### 👨‍💻 Programming Languages and Tools
 
-#### Web Development
+#### Web Development:
 ![HTML5](https://skillicons.dev/icons?i=html)  ![CSS](https://skillicons.dev/icons?i=css)  ![JavaScript](https://skillicons.dev/icons?i=js)  ![PHP](https://skillicons.dev/icons?i=php)
 
 
 
 
-#### Programming Languages
+#### Programming Languages:
 ![Python](https://skillicons.dev/icons?i=python)  ![Java](https://skillicons.dev/icons?i=java)  ![Kotlin](https://skillicons.dev/icons?i=kotlin)
 
 
 
-#### Tools & IDEs
+#### Tools & IDEs:
 ![Git](https://skillicons.dev/icons?i=git)  ![VSCode](https://skillicons.dev/icons?i=vscode)  ![Android Studio](https://skillicons.dev/icons?i=androidstudio)
 
 
