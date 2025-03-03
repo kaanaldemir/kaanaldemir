@@ -36,7 +36,6 @@ Check out my projects below – any feedback is welcome! 😉
 
 ### 📈 My Profile Statistics
 <p align="left">
-    <a href="https://git.io/streak-stats"><img width="21%" height="21%" alt="Github Stats" src="https://streak-stats.demolab.com?user=kaanaldemir&theme=tokyonight&hide_current_streak=true&hide_longest_streak=true&card_width=200&disable_animations=false&hide_border=true"></a>
     <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"><img width="72%" alt="Github Streak" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kaanaldemir&theme=tokyonight"></a>
 </p>
 
