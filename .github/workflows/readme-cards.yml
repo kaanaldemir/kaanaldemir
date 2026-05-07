@@ -39,7 +39,7 @@ jobs:
         with:
           card: pin
           options: username=kaanaldemir&repo=DLSS-Override-For-All-Games&theme=tokyonight&hide_border=true
-          path: profile/pin-dlss-override-for-all-games-row1.svg
+          path: profile/pin-dlss-override-for-all-games.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Generate contrast stretching pin card
@@ -47,7 +47,7 @@ jobs:
         with:
           card: pin
           options: username=kaanaldemir&repo=Custom-Contrast-Stretching-GUI&theme=tokyonight&hide_border=true
-          path: profile/pin-custom-contrast-stretching-gui-row1.svg
+          path: profile/pin-custom-contrast-stretching-gui.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Generate auto subtitle pin card
@@ -65,23 +65,6 @@ jobs:
           options: username=kaanaldemir&repo=kaanaldemir.github.io&theme=tokyonight&hide_border=true
           path: profile/pin-kaanaldemir-github-io.svg
           token: ${{ secrets.GITHUB_TOKEN }}
-
-      - name: Add project row spacing
-        run: |
-          python - <<'PY'
-          from pathlib import Path
-
-          for name in (
-              "profile/pin-dlss-override-for-all-games-row1.svg",
-              "profile/pin-custom-contrast-stretching-gui-row1.svg",
-          ):
-              path = Path(name)
-              text = path.read_text(encoding="utf-8")
-              text = text.replace('height="120"', 'height="128"', 1)
-              text = text.replace('viewBox="0 0 400 120"', 'viewBox="0 0 400 128"', 1)
-              text = text.replace('height="99%"', 'height="119"', 1)
-              path.write_text(text, encoding="utf-8")
-          PY
 
       - name: Commit generated cards
         run: |
