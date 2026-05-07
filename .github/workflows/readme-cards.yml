@@ -66,6 +66,23 @@ jobs:
           path: profile/pin-kaanaldemir-github-io.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
+      - name: Add project row spacing
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+
+          for name in (
+              "profile/pin-dlss-override-for-all-games.svg",
+              "profile/pin-custom-contrast-stretching-gui.svg",
+          ):
+              path = Path(name)
+              text = path.read_text(encoding="utf-8")
+              text = text.replace('height="120"', 'height="128"', 1)
+              text = text.replace('viewBox="0 0 400 120"', 'viewBox="0 0 400 128"', 1)
+              text = text.replace('height="99%"', 'height="119"', 1)
+              path.write_text(text, encoding="utf-8")
+          PY
+
       - name: Commit generated cards
         run: |
           git config user.name "github-actions[bot]"
