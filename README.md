@@ -19,29 +19,38 @@ Check out my projects below – any feedback is welcome! 😉
 #### Web Development:
 ![HTML5](https://skillicons.dev/icons?i=html)  ![CSS](https://skillicons.dev/icons?i=css)  ![JavaScript](https://skillicons.dev/icons?i=js)  ![PHP](https://skillicons.dev/icons?i=php)
 
-
-
-
 #### Programming Languages:
 ![Python](https://skillicons.dev/icons?i=python)  ![Java](https://skillicons.dev/icons?i=java)  ![Kotlin](https://skillicons.dev/icons?i=kotlin)
-
-
 
 #### Tools & IDEs:
 ![Git](https://skillicons.dev/icons?i=git)  ![VSCode](https://skillicons.dev/icons?i=vscode)  ![Android Studio](https://skillicons.dev/icons?i=androidstudio)
 
-
-
 ---
 
 ### 📈 My Profile Statistics
+
 <p align="left">
-    <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"><img width="68.5%" alt="Github Streak" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kaanaldemir&theme=tokyonight"></a>
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+    <img width="68.5%" alt="GitHub profile summary" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kaanaldemir&theme=tokyonight">
+  </a>
 </p>
 
 <p align="left">
-    <a href="https://github-readme-stats.vercel.app"><img width="33.7%" height="33.7%" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaanaldemir&hide=objective-c,swift,c,c%2B%2B,cmake,scss,html,ruby,javascript&hide_progress=false&theme=tokyonight&hide_border=true"></a>
-    <a href="https://github-readme-stats.vercel.app/api?username=kaanaldemir&show_icons=true&hide_rank=true&theme=tokyonight&&show=prs_merged,prs_merged_percentage"><img width="34.2%" height="34.2%" alt="Kaan's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=kaanaldemir&show_icons=true&hide_rank=true&hide_border=true&theme=tokyonight&&show=prs_merged,prs_merged_percentage"></a> 
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+    <img width="33.7%" alt="Repos per language" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kaanaldemir&theme=tokyonight">
+  </a>
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+    <img width="33.7%" alt="Most committed language" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kaanaldemir&theme=tokyonight">
+  </a>
+</p>
+
+<p align="left">
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+    <img width="33.7%" alt="GitHub stats" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kaanaldemir&theme=tokyonight">
+  </a>
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+    <img width="33.7%" alt="Productive time" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kaanaldemir&theme=tokyonight&utcOffset=3">
+  </a>
 </p>
 
 ---
@@ -50,18 +59,18 @@ Check out my projects below – any feedback is welcome! 😉
 
 <p align="left">
   <a href="https://github.com/kaanaldemir/DLSS-Override-For-All-Games">
-    <img width="45%" alt="DLSS-Override-For-All-Games" src="https://github-readme-stats.vercel.app/api/pin/?username=kaanaldemir&repo=DLSS-Override-For-All-Games&theme=tokyonight&hide_border=true" />
+    <img alt="DLSS Override For All Games" src="https://img.shields.io/badge/DLSS--Override--For--All--Games-181717?style=for-the-badge&logo=github">
   </a>
   <a href="https://github.com/kaanaldemir/Custom-Contrast-Stretching-GUI">
-    <img width="45%" alt="Custom-Contrast-Stretching-GUI" src="https://github-readme-stats.vercel.app/api/pin/?username=kaanaldemir&repo=Custom-Contrast-Stretching-GUI&theme=tokyonight&hide_border=true" />
+    <img alt="Custom Contrast Stretching GUI" src="https://img.shields.io/badge/Custom--Contrast--Stretching--GUI-181717?style=for-the-badge&logo=github">
   </a>
 </p>
 <p align="left">
   <a href="https://github.com/kaanaldemir/auto-subtitle-gui">
-    <img width="45%" alt="auto-subtitle-gui" src="https://github-readme-stats.vercel.app/api/pin/?username=kaanaldemir&repo=auto-subtitle-gui&theme=tokyonight&hide_border=true" />
+    <img alt="auto subtitle gui" src="https://img.shields.io/badge/auto--subtitle--gui-181717?style=for-the-badge&logo=github">
   </a>
   <a href="https://github.com/kaanaldemir/kaanaldemir.github.io">
-    <img width="45%" alt="Personal Website" src="https://github-readme-stats.vercel.app/api/pin/?username=kaanaldemir&repo=kaanaldemir.github.io&theme=tokyonight&hide_border=true" />
+    <img alt="Personal Website" src="https://img.shields.io/badge/Personal--Website-181717?style=for-the-badge&logo=github">
   </a>
 </p>
 
