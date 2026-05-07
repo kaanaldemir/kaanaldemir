@@ -1,8 +1,8 @@
 
       <svg
         width="400"
-        height="120"
-        viewBox="0 0 400 120"
+        height="128"
+        viewBox="0 0 400 128"
         fill="none"
         xmlns="http://www.w3.org/2000/svg"
         role="img"
@@ -57,7 +57,7 @@
           x="0.5"
           y="0.5"
           rx="4.5"
-          height="99%"
+          height="119"
           stroke="#e4e2e2"
           width="399"
           fill="#1a1b27"
