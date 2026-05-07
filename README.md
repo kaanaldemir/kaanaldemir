@@ -59,18 +59,18 @@ Check out my projects below – any feedback is welcome! 😉
 
 <p align="left">
   <a href="https://github.com/kaanaldemir/DLSS-Override-For-All-Games">
-    <img alt="DLSS Override For All Games" src="https://img.shields.io/badge/DLSS--Override--For--All--Games-181717?style=for-the-badge&logo=github">
+    <img width="45%" alt="DLSS-Override-For-All-Games" src="https://opengraph.githubassets.com/kaanaldemir-profile/kaanaldemir/DLSS-Override-For-All-Games" />
   </a>
   <a href="https://github.com/kaanaldemir/Custom-Contrast-Stretching-GUI">
-    <img alt="Custom Contrast Stretching GUI" src="https://img.shields.io/badge/Custom--Contrast--Stretching--GUI-181717?style=for-the-badge&logo=github">
+    <img width="45%" alt="Custom-Contrast-Stretching-GUI" src="https://opengraph.githubassets.com/kaanaldemir-profile/kaanaldemir/Custom-Contrast-Stretching-GUI" />
   </a>
 </p>
 <p align="left">
   <a href="https://github.com/kaanaldemir/auto-subtitle-gui">
-    <img alt="auto subtitle gui" src="https://img.shields.io/badge/auto--subtitle--gui-181717?style=for-the-badge&logo=github">
+    <img width="45%" alt="auto-subtitle-gui" src="https://opengraph.githubassets.com/kaanaldemir-profile/kaanaldemir/auto-subtitle-gui" />
   </a>
   <a href="https://github.com/kaanaldemir/kaanaldemir.github.io">
-    <img alt="Personal Website" src="https://img.shields.io/badge/Personal--Website-181717?style=for-the-badge&logo=github">
+    <img width="45%" alt="Personal Website" src="https://opengraph.githubassets.com/kaanaldemir-profile/kaanaldemir/kaanaldemir.github.io" />
   </a>
 </p>
 
