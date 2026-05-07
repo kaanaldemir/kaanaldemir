@@ -19,11 +19,18 @@ Check out my projects below – any feedback is welcome! 😉
 #### Web Development:
 ![HTML5](https://skillicons.dev/icons?i=html)  ![CSS](https://skillicons.dev/icons?i=css)  ![JavaScript](https://skillicons.dev/icons?i=js)  ![PHP](https://skillicons.dev/icons?i=php)
 
+
+
+
 #### Programming Languages:
 ![Python](https://skillicons.dev/icons?i=python)  ![Java](https://skillicons.dev/icons?i=java)  ![Kotlin](https://skillicons.dev/icons?i=kotlin)
 
+
+
 #### Tools & IDEs:
 ![Git](https://skillicons.dev/icons?i=git)  ![VSCode](https://skillicons.dev/icons?i=vscode)  ![Android Studio](https://skillicons.dev/icons?i=androidstudio)
+
+
 
 ---
 
@@ -43,18 +50,18 @@ Check out my projects below – any feedback is welcome! 😉
 
 <p align="left">
   <a href="https://github.com/kaanaldemir/DLSS-Override-For-All-Games">
-    <img width="45%" alt="DLSS-Override-For-All-Games" src="https://opengraph.githubassets.com/kaanaldemir-profile/kaanaldemir/DLSS-Override-For-All-Games" />
+    <img width="45%" alt="DLSS-Override-For-All-Games" src="https://github-readme-stats.vercel.app/api/pin/?username=kaanaldemir&repo=DLSS-Override-For-All-Games&theme=tokyonight&hide_border=true" />
   </a>
   <a href="https://github.com/kaanaldemir/Custom-Contrast-Stretching-GUI">
-    <img width="45%" alt="Custom-Contrast-Stretching-GUI" src="https://opengraph.githubassets.com/kaanaldemir-profile/kaanaldemir/Custom-Contrast-Stretching-GUI" />
+    <img width="45%" alt="Custom-Contrast-Stretching-GUI" src="https://github-readme-stats.vercel.app/api/pin/?username=kaanaldemir&repo=Custom-Contrast-Stretching-GUI&theme=tokyonight&hide_border=true" />
   </a>
 </p>
 <p align="left">
   <a href="https://github.com/kaanaldemir/auto-subtitle-gui">
-    <img width="45%" alt="auto-subtitle-gui" src="https://opengraph.githubassets.com/kaanaldemir-profile/kaanaldemir/auto-subtitle-gui" />
+    <img width="45%" alt="auto-subtitle-gui" src="https://github-readme-stats.vercel.app/api/pin/?username=kaanaldemir&repo=auto-subtitle-gui&theme=tokyonight&hide_border=true" />
   </a>
   <a href="https://github.com/kaanaldemir/kaanaldemir.github.io">
-    <img width="45%" alt="Personal Website" src="https://opengraph.githubassets.com/kaanaldemir-profile/kaanaldemir/kaanaldemir.github.io" />
+    <img width="45%" alt="Personal Website" src="https://github-readme-stats.vercel.app/api/pin/?username=kaanaldemir&repo=kaanaldemir.github.io&theme=tokyonight&hide_border=true" />
   </a>
 </p>
 
