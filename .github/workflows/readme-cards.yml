@@ -42,20 +42,12 @@ jobs:
           path: profile/pin-dlss-override-for-all-games.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Generate contrast stretching pin card
+      - name: Generate novideo_srgb pin card
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: pin
-          options: username=kaanaldemir&repo=Custom-Contrast-Stretching-GUI&theme=tokyonight&hide_border=true
-          path: profile/pin-custom-contrast-stretching-gui.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
-
-      - name: Generate auto subtitle pin card
-        uses: readme-tools/github-readme-stats-action@v1
-        with:
-          card: pin
-          options: username=kaanaldemir&repo=auto-subtitle-gui&theme=tokyonight&hide_border=true
-          path: profile/pin-auto-subtitle-gui.svg
+          options: username=kaanaldemir&repo=novideo_srgb&theme=tokyonight&hide_border=true
+          path: profile/pin-novideo-srgb.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Generate personal website pin card
@@ -64,6 +56,14 @@ jobs:
           card: pin
           options: username=kaanaldemir&repo=kaanaldemir.github.io&theme=tokyonight&hide_border=true
           path: profile/pin-kaanaldemir-github-io.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate contrast stretching pin card
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: pin
+          options: username=kaanaldemir&repo=Custom-Contrast-Stretching-GUI&theme=tokyonight&hide_border=true
+          path: profile/pin-custom-contrast-stretching-gui.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Commit generated cards
