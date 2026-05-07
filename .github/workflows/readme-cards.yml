@@ -38,7 +38,7 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: pin
-          options: username=kaanaldemir&repo=DLSS-Override-For-All-Games&theme=tokyonight&hide_border=true
+          options: username=kaanaldemir&repo=DLSS-Override-For-All-Games&theme=tokyonight&hide_border=true&description_lines_count=2
           path: profile/pin-dlss-override-for-all-games.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
@@ -46,7 +46,7 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: pin
-          options: username=kaanaldemir&repo=novideo_srgb&theme=tokyonight&hide_border=true
+          options: username=kaanaldemir&repo=novideo_srgb&theme=tokyonight&hide_border=true&description_lines_count=2
           path: profile/pin-novideo-srgb.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
@@ -54,7 +54,7 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: pin
-          options: username=kaanaldemir&repo=kaanaldemir.github.io&theme=tokyonight&hide_border=true
+          options: username=kaanaldemir&repo=kaanaldemir.github.io&theme=tokyonight&hide_border=true&description_lines_count=2
           path: profile/pin-kaanaldemir-github-io.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
@@ -62,7 +62,7 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: pin
-          options: username=kaanaldemir&repo=Custom-Contrast-Stretching-GUI&theme=tokyonight&hide_border=true
+          options: username=kaanaldemir&repo=Custom-Contrast-Stretching-GUI&theme=tokyonight&hide_border=true&description_lines_count=2
           path: profile/pin-custom-contrast-stretching-gui.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
