@@ -46,10 +46,10 @@ Check out my projects below – any feedback is welcome! 😉
 ### 🔥 My Projects
 <p align="left">
   <a href="https://github.com/kaanaldemir/DLSS-Override-For-All-Games"><img align="top" width="45%" alt="DLSS-Override-For-All-Games" src="./profile/pin-dlss-override-for-all-games.svg" /></a>
-  <a href="https://github.com/kaanaldemir/Custom-Contrast-Stretching-GUI"><img align="top" width="45%" alt="Custom-Contrast-Stretching-GUI" src="./profile/pin-custom-contrast-stretching-gui.svg" /></a><br>
+  <a href="https://github.com/kaanaldemir/novideo_srgb"><img align="top" width="45%" alt="novideo_srgb" src="./profile/pin-novideo-srgb.svg" /></a><br>
   <img width="1" height="8" alt="" src="./profile/spacer-8.svg"><br>
-  <a href="https://github.com/kaanaldemir/auto-subtitle-gui"><img align="top" width="45%" alt="auto-subtitle-gui" src="./profile/pin-auto-subtitle-gui.svg" /></a>
   <a href="https://github.com/kaanaldemir/kaanaldemir.github.io"><img align="top" width="45%" alt="Personal Website" src="./profile/pin-kaanaldemir-github-io.svg" /></a>
+  <a href="https://github.com/kaanaldemir/Custom-Contrast-Stretching-GUI"><img align="top" width="45%" alt="Custom-Contrast-Stretching-GUI" src="./profile/pin-custom-contrast-stretching-gui.svg" /></a>
 </p>
 
 ---
