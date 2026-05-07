@@ -28,29 +28,13 @@ Check out my projects below – any feedback is welcome! 😉
 ---
 
 ### 📈 My Profile Statistics
-
 <p align="left">
-  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-    <img width="68.5%" alt="GitHub profile summary" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kaanaldemir&theme=tokyonight">
-  </a>
+    <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"><img width="68.5%" alt="Github Streak" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kaanaldemir&theme=tokyonight"></a>
 </p>
 
 <p align="left">
-  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-    <img width="33.7%" alt="Repos per language" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kaanaldemir&theme=tokyonight">
-  </a>
-  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-    <img width="33.7%" alt="Most committed language" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kaanaldemir&theme=tokyonight">
-  </a>
-</p>
-
-<p align="left">
-  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-    <img width="33.7%" alt="GitHub stats" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kaanaldemir&theme=tokyonight">
-  </a>
-  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-    <img width="33.7%" alt="Productive time" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kaanaldemir&theme=tokyonight&utcOffset=3">
-  </a>
+    <a href="https://github-readme-stats.vercel.app"><img width="33.7%" height="33.7%" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaanaldemir&hide=objective-c,swift,c,c%2B%2B,cmake,scss,html,ruby,javascript&hide_progress=false&theme=tokyonight&hide_border=true"></a>
+    <a href="https://github-readme-stats.vercel.app/api?username=kaanaldemir&show_icons=true&hide_rank=true&theme=tokyonight&&show=prs_merged,prs_merged_percentage"><img width="34.2%" height="34.2%" alt="Kaan's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=kaanaldemir&show_icons=true&hide_rank=true&hide_border=true&theme=tokyonight&&show=prs_merged,prs_merged_percentage"></a> 
 </p>
 
 ---
