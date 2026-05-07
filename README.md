@@ -35,14 +35,21 @@ Check out my projects below – any feedback is welcome! 😉
 ---
 
 ### 📈 My Profile Statistics
-<p align="left">
-    <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"><img width="68.5%" alt="Github Streak" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kaanaldemir&theme=tokyonight"></a>
-</p>
-
-<p align="left">
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img align="top" width="33.7%" height="33.7%" alt="Top Langs" src="./profile/top-langs.svg"></a>
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img align="top" width="34.2%" height="34.2%" alt="Kaan's GitHub stats" src="./profile/stats.svg"></a> 
-</p>
+<table>
+  <tr>
+    <td colspan="2" style="border: 0; padding: 0 0 8px 0;">
+      <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"><img width="68.5%" alt="Github Streak" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kaanaldemir&theme=tokyonight"></a>
+    </td>
+  </tr>
+  <tr>
+    <td style="border: 0; padding: 0 4px 0 0;">
+      <a href="https://github.com/anuraghazra/github-readme-stats"><img align="top" width="100%" alt="Top Langs" src="./profile/top-langs.svg"></a>
+    </td>
+    <td style="border: 0; padding: 0 0 0 4px;">
+      <a href="https://github.com/anuraghazra/github-readme-stats"><img align="top" width="100%" alt="Kaan's GitHub stats" src="./profile/stats.svg"></a>
+    </td>
+  </tr>
+</table>
 
 ---
 
