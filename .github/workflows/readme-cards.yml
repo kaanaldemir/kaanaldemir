@@ -39,7 +39,7 @@ jobs:
         with:
           card: pin
           options: username=kaanaldemir&repo=DLSS-Override-For-All-Games&theme=tokyonight&hide_border=true
-          path: profile/pin-dlss-override-for-all-games.svg
+          path: profile/pin-dlss-override-for-all-games-row1.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Generate contrast stretching pin card
@@ -47,7 +47,7 @@ jobs:
         with:
           card: pin
           options: username=kaanaldemir&repo=Custom-Contrast-Stretching-GUI&theme=tokyonight&hide_border=true
-          path: profile/pin-custom-contrast-stretching-gui.svg
+          path: profile/pin-custom-contrast-stretching-gui-row1.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Generate auto subtitle pin card
@@ -72,8 +72,8 @@ jobs:
           from pathlib import Path
 
           for name in (
-              "profile/pin-dlss-override-for-all-games.svg",
-              "profile/pin-custom-contrast-stretching-gui.svg",
+              "profile/pin-dlss-override-for-all-games-row1.svg",
+              "profile/pin-custom-contrast-stretching-gui-row1.svg",
           ):
               path = Path(name)
               text = path.read_text(encoding="utf-8")
