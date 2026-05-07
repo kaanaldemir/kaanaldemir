@@ -40,8 +40,8 @@ Check out my projects below – any feedback is welcome! 😉
 </p>
 
 <p align="left">
-    <a href="https://github-readme-stats.vercel.app"><img width="33.7%" height="33.7%" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaanaldemir&hide=objective-c,swift,c,c%2B%2B,cmake,scss,html,ruby,javascript&hide_progress=false&theme=tokyonight&hide_border=true"></a>
-    <a href="https://github-readme-stats.vercel.app/api?username=kaanaldemir&show_icons=true&hide_rank=true&theme=tokyonight&&show=prs_merged,prs_merged_percentage"><img width="34.2%" height="34.2%" alt="Kaan's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=kaanaldemir&show_icons=true&hide_rank=true&hide_border=true&theme=tokyonight&&show=prs_merged,prs_merged_percentage"></a> 
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img width="33.7%" height="33.7%" alt="Top Langs" src="./profile/top-langs.svg"></a>
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img width="34.2%" height="34.2%" alt="Kaan's GitHub stats" src="./profile/stats.svg"></a> 
 </p>
 
 ---
@@ -50,18 +50,18 @@ Check out my projects below – any feedback is welcome! 😉
 
 <p align="left">
   <a href="https://github.com/kaanaldemir/DLSS-Override-For-All-Games">
-    <img width="45%" alt="DLSS-Override-For-All-Games" src="https://github-readme-stats.vercel.app/api/pin/?username=kaanaldemir&repo=DLSS-Override-For-All-Games&theme=tokyonight&hide_border=true" />
+    <img width="45%" alt="DLSS-Override-For-All-Games" src="./profile/pin-dlss-override-for-all-games.svg" />
   </a>
   <a href="https://github.com/kaanaldemir/Custom-Contrast-Stretching-GUI">
-    <img width="45%" alt="Custom-Contrast-Stretching-GUI" src="https://github-readme-stats.vercel.app/api/pin/?username=kaanaldemir&repo=Custom-Contrast-Stretching-GUI&theme=tokyonight&hide_border=true" />
+    <img width="45%" alt="Custom-Contrast-Stretching-GUI" src="./profile/pin-custom-contrast-stretching-gui.svg" />
   </a>
 </p>
 <p align="left">
   <a href="https://github.com/kaanaldemir/auto-subtitle-gui">
-    <img width="45%" alt="auto-subtitle-gui" src="https://github-readme-stats.vercel.app/api/pin/?username=kaanaldemir&repo=auto-subtitle-gui&theme=tokyonight&hide_border=true" />
+    <img width="45%" alt="auto-subtitle-gui" src="./profile/pin-auto-subtitle-gui.svg" />
   </a>
   <a href="https://github.com/kaanaldemir/kaanaldemir.github.io">
-    <img width="45%" alt="Personal Website" src="https://github-readme-stats.vercel.app/api/pin/?username=kaanaldemir&repo=kaanaldemir.github.io&theme=tokyonight&hide_border=true" />
+    <img width="45%" alt="Personal Website" src="./profile/pin-kaanaldemir-github-io.svg" />
   </a>
 </p>
 
