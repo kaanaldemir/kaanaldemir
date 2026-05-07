@@ -40,8 +40,8 @@ Check out my projects below – any feedback is welcome! 😉
 </p>
 
 <p align="left">
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img width="33.7%" height="33.7%" alt="Top Langs" src="./profile/top-langs.svg"></a>
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img width="34.2%" height="34.2%" alt="Kaan's GitHub stats" src="./profile/stats.svg"></a> 
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img align="top" width="33.7%" height="33.7%" alt="Top Langs" src="./profile/top-langs.svg"></a>
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img align="top" width="34.2%" height="34.2%" alt="Kaan's GitHub stats" src="./profile/stats.svg"></a> 
 </p>
 
 ---
