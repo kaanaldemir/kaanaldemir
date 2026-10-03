@@ -1,15 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="495" height="130" viewBox="0 0 495 130" role="img" aria-labelledby="title">
+  <title id="title">novideo_srgb</title>
+  <style>text{font-family:Segoe UI,Ubuntu,Arial,sans-serif;fill:#38bdae}.heading{font-size:18px;font-weight:600;fill:#70a5fd}.label{font-size:12px}.value{font-size:13px;font-weight:600}.muted{font-size:11px;fill:#a9b1d6}</style>
+  <rect width="100%" height="100%" rx="5" fill="#1a1b27"/>
 
-    <svg width="576.5"  height="120" viewBox="0 0 576.5 120" fill="#1a1b27" xmlns="http://www.w3.org/2000/svg">
-    <style>
-    .text { font: 600 16px 'Segoe UI', Ubuntu, Sans-Serif; fill: #70a5fd }
-    .small { font: 600 12px 'Segoe UI', Ubuntu, Sans-Serif; fill: #38bdae }
-    .gray { fill: #858585 }
-    </style>
-    <rect x="0.5" y="0.5" width="575.5" height="99%" rx="4.5" fill="#1a1b27" stroke="#e4e2e2"/>
-    <text x="25" y="45" class="text">Something went wrong! file an issue at https://tiny.one/readme-stats</text>
-    <text data-testid="message" x="25" y="55" class="text small">
-      <tspan x="25" dy="18">User Repository Not found</tspan>
-      <tspan x="25" dy="18" class="gray"></tspan>
-    </text>
-    </svg>
-  
+    <text x="25" y="32" class="heading">novideo_srgb</text>
+    <text x="25" y="60" class="label">Calibrate monitors to sRGB or other color spaces on NVIDIA GPUs,</text>
+<text x="25" y="78" class="label">based on EDID data or ICC profiles</text>
+    <circle cx="30" cy="108" r="6" fill="#178600"/>
+    <text x="43" y="112" class="label">C#</text>
+    <text x="160" y="112" class="muted">★ 3</text>
+    <text x="225" y="112" class="muted">Forks: 0</text>
+</svg>

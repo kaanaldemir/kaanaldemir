@@ -1,15 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="285" viewBox="0 0 300 285" role="img" aria-labelledby="title">
+  <title id="title">Kaan&apos;s GitHub stats</title>
+  <style>text{font-family:Segoe UI,Ubuntu,Arial,sans-serif;fill:#38bdae}.heading{font-size:18px;font-weight:600;fill:#70a5fd}.label{font-size:12px}.value{font-size:13px;font-weight:600}.muted{font-size:11px;fill:#a9b1d6}</style>
+  <rect width="100%" height="100%" rx="5" fill="#1a1b27"/>
 
-    <svg width="576.5"  height="120" viewBox="0 0 576.5 120" fill="#1a1b27" xmlns="http://www.w3.org/2000/svg">
-    <style>
-    .text { font: 600 16px 'Segoe UI', Ubuntu, Sans-Serif; fill: #70a5fd }
-    .small { font: 600 12px 'Segoe UI', Ubuntu, Sans-Serif; fill: #38bdae }
-    .gray { fill: #858585 }
-    </style>
-    <rect x="0.5" y="0.5" width="575.5" height="99%" rx="4.5" fill="#1a1b27" stroke="#e4e2e2"/>
-    <text x="25" y="45" class="text">Something went wrong! file an issue at https://tiny.one/readme-stats</text>
-    <text data-testid="message" x="25" y="55" class="text small">
-      <tspan x="25" dy="18">Resource not accessible by integration</tspan>
-      <tspan x="25" dy="18" class="gray">OK</tspan>
-    </text>
-    </svg>
-  
+    <text x="20" y="34" class="heading">Kaan's GitHub Stats</text>
+    <text x="20" y="72" class="label">Total stars</text><text x="280" y="72" text-anchor="end" class="value">163</text>
+<text x="20" y="97" class="label">Public commits (2026)</text><text x="280" y="97" text-anchor="end" class="value">245</text>
+<text x="20" y="122" class="label">Total pull requests</text><text x="280" y="122" text-anchor="end" class="value">7</text>
+<text x="20" y="147" class="label">Total issues</text><text x="280" y="147" text-anchor="end" class="value">2</text>
+<text x="20" y="172" class="label">Public repositories</text><text x="280" y="172" text-anchor="end" class="value">17</text>
+<text x="20" y="197" class="label">Merged pull requests</text><text x="280" y="197" text-anchor="end" class="value">2</text>
+<text x="20" y="222" class="label">Pull requests merged</text><text x="280" y="222" text-anchor="end" class="value">28.6%</text>
+    <text x="20" y="266" class="muted">Public GitHub data</text>
+</svg>
