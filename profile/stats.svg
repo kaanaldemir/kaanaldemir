@@ -5,7 +5,7 @@
 
     <text x="20" y="34" class="heading">Kaan's GitHub Stats</text>
     <text x="20" y="72" class="label">Total stars</text><text x="280" y="72" text-anchor="end" class="value">163</text>
-<text x="20" y="97" class="label">Public commits (2026)</text><text x="280" y="97" text-anchor="end" class="value">245</text>
+<text x="20" y="97" class="label">Public commits (2026)</text><text x="280" y="97" text-anchor="end" class="value">246</text>
 <text x="20" y="122" class="label">Total pull requests</text><text x="280" y="122" text-anchor="end" class="value">7</text>
 <text x="20" y="147" class="label">Total issues</text><text x="280" y="147" text-anchor="end" class="value">2</text>
 <text x="20" y="172" class="label">Public repositories</text><text x="280" y="172" text-anchor="end" class="value">17</text>
