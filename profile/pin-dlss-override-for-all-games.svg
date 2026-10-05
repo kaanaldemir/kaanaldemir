@@ -7,6 +7,6 @@
     <text x="25" y="60" class="label">DLSS Override for games that are not whitelisted</text>
     <circle cx="30" cy="108" r="6" fill="#3572a5"/>
     <text x="43" y="112" class="label">Python</text>
-    <text x="160" y="112" class="muted">★ 149</text>
+    <text x="160" y="112" class="muted">★ 150</text>
     <text x="225" y="112" class="muted">Forks: 8</text>
 </svg>
